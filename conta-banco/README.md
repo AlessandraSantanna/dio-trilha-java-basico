@@ -44,7 +44,7 @@ Os campos em [ ] devem ser alterados pelas informações que foram inseridas pel
 
 <h2>Acesse o projeto</h2> 
 
-Você pode [acessar o código fonte do projeto](https://github.com/alesyfrontend/dio-trilha-java-basico/blob/main/conta-banco/src/ContaTerminal.java).
+Você pode [acessar o código fonte do projeto](https://github.com/alesyfrontend/dio-trilha-java-basico/blob/4d42e76448ac18c618fc917ee28d74986d352df6/conta-banco/src/ContaTerminal.java).
 
 
 <h2>Desenvolvedor</h2>
